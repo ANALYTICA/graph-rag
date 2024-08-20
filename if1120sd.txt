@@ -1,0 +1,200 @@
+Instructions for Schedule D (Form 1120) (2023)
+Capital Gains and Losses
+Section references are to the Internal Revenue Code unless otherwise noted.
+
+2023
+
+Instructions for Schedule D (Form 1120) - Introductory Material
+Future Developments
+For the latest information about developments to Schedule D (Form 1120) and its instructions, such as legislation enacted after they were published, go to IRS.gov/Form1120.
+
+General Instructions
+Purpose of Schedule
+Use Schedule D (Form 1120) to report the following.
+
+The overall gain or loss from transactions reported on Form 8949, Sales and Other Dispositions of Capital Assets.
+Certain transactions the corporation does not have to report on Form 8949.
+Gain from Form 6252, Installment Sale Income, or from Part I of Form 4797, Sales of Business Property.
+Gain or loss from Form 8824, Like-Kind Exchanges.
+Unused capital loss carryover.
+Capital gain distributions not reported directly on Form 1120, line 8 (or effectively connected capital gain distributions not reported directly on Form 1120-F, 1120-C, 1120-H, or all other related forms).
+Who Must File
+Complete and attach Schedule D (Form 1120) to Form 1120, 1120-C, 1120-F, 1120-FSC, 1120-H, 1120-IC-DISC, 1120-L, 1120-ND, 1120-PC, 1120-POL, 1120-REIT, 1120-RIC, 1120-SF, or certain Forms 990-T.
+
+Other Forms the Corporation May Have To File
+Use Form 8949 to report the following.
+
+Sales or exchanges of capital assets (defined later) not reported on another form or schedule.
+Nonbusiness bad debts.
+Undistributed long-term capital gains from Form 2439.
+Worthlessness of a security.
+The corporation's share of gain or loss from a partnership, S corporation, estate, or trust.
+Sale of stock of a specified 10%-owned foreign corporation, adjusted for the dividends-received deduction under section 245A, but only if the sale would otherwise generate a loss.
+Gain or loss on the transfer by a nonresident alien individual or foreign corporation of an interest in a partnership that is engaged in a U.S. trade or business.
+Elections to defer capital gain invested in a Qualified Opportunity Fund (QOF).
+Dispositions of interests in QOFs.
+Complete all applicable lines of Form 8949 before completing line 1b, 2, 3, 8b, 9, or 10 of Schedule D (Form 1120). See the Instructions for Form 8949 for special provisions and exceptions to completing Form 8949 for certain corporations. Also, see the instructions for lines 1a and 8a, later, for more information about when to use Form 8949.
+
+Use Form 4797 to report the following.
+
+The sale or exchange of:
+Real property used in a trade or business;
+Depreciable and amortizable tangible property used in a trade or business (however, see Disposition of Depreciable Property Not Used in Trade or Business in the Instructions for Form 4797);
+Oil, gas, geothermal, or other mineral property; and
+Section 126 property.
+The involuntary conversion (other than from casualty or theft) of property used in your trade or business and capital assets held more than 1 year in connection with a trade or business or a transaction entered into for profit (however, see Disposition of Depreciable Property Not Used in Trade or Business in the Instructions for Form 4797).
+The disposition of noncapital assets other than inventory or property held primarily for sale to customers in the ordinary course of the corporation's trade or business.
+The section 291 adjustment to section 1250 property.
+Gains or losses treated as ordinary gains or losses, if you are a trader in securities or commodities and made a mark-to-market election under section 475(f).
+Election to defer a qualified section 1231 gain invested in a QOF.
+Use Form 4684, to report involuntary conversions of property due to casualty or theft.
+
+Use Form 6781, to report gains and losses from section 1256 contracts and straddles.
+
+Use Form 8824 if the corporation exchanges qualifying business or investment real property for real property of a like kind. For exchanges of capital assets, include the gain or (loss) from Form 8824, if any, on Schedule D (Form 1120), line 5 or line 13, as applicable.
+
+Use Form 8997, Initial and Annual Statement of Qualified Opportunity Fund (QOF) Investments, if you held a qualified investment in a QOF at any time during the year. See Form 8997 and its instructions.
+
+Additional information. For more information, see the instructions for the forms listed above. Also, see Pub. 544, Sales and Other Dispositions of Assets, and Pub. 550, Investment Income and Expenses.
+Capital Assets
+Each item of property the corporation held (whether or not connected with its trade or business) is a capital asset except the following. See section 1221(a).
+
+Stock in trade or other property included in inventory or held mainly for sale to customers. However, see the Note , later.
+Accounts or notes receivable acquired in the ordinary course of the trade or business for services rendered or from the sale of stock in trade or other property included in inventory or held mainly for sale to customers.
+Depreciable or real property used in the trade or business, even if it is fully depreciated.
+Certain copyrights; literary, musical, or artistic compositions; letters or memoranda; or similar property. However, see the Note , later.
+Certain patents, inventions, models or designs (whether or not patented); secret formulas or processes; or similar property.
+U.S. Government publications, including the Congressional Record, that the corporation received from the government, other than by purchase at the normal sales price, or that the corporation got from another taxpayer who had received it in a similar way, if the corporation's basis is determined by reference to the previous owner's basis.
+Certain commodities derivative financial instruments held by a dealer in connection with its dealer activities.
+Certain identified hedging transactions entered into in the normal course of the trade or business.
+Supplies regularly used in the trade or business.
+Note. The corporation can elect to treat as capital assets certain musical compositions or copyrights in musical works it sold or exchanged. See section 1221(b)(3) and Pub. 550 for details.
+Capital Losses
+For a corporation, capital losses are allowed in the current tax year only to the extent of capital gains. A net capital loss is carried back 3 years and forward up to 5 years as a short-term capital loss. Carry back a capital loss to the extent it doesn’t increase or produce a net operating loss in the tax year to which it is carried. Foreign expropriation capital losses cannot be carried back, but are carried forward up to 10 years. A net capital loss of a regulated investment company (RIC) incurred in tax years beginning before December 23, 2010, is carried forward up to 8 years. There is no limit on the number of tax years a RIC is allowed to carry forward a net capital loss incurred in tax years beginning after December 22, 2010.
+
+For more information about corporate capital losses, see Capital Losses in Pub. 542, Corporations.
+
+Short- or Long-Term Gain or Loss
+Report short-term gains or losses in Part I. Report long-term gains or losses in Part II. The holding period for short-term capital gains and losses is generally 1 year or less. The holding period for long-term capital gains and losses is generally more than 1 year.
+
+For more information about holding periods, see the Instructions for Form 8949.
+
+Items for Special Treatment
+Note. For more information, see Pub. 544.
+Special rules for determining basis. In general, the basis of property is its cost. See section 1012 and the related regulations. Special rules for determining basis are provided in sections in subchapters C, K, O, and P of the Code. These rules may apply to the:
+Receipt of certain distributions with respect to stock (section 301 or 1059),
+Liquidation of another corporation (section 334),
+Transfer to another corporation (section 358),
+Transfer from a shareholder or reorganization (section 362),
+Bequest (section 1014),
+Contribution or gift (section 1015),
+Tax-free exchange (section 1031),
+Involuntary conversion (section 1033),
+Certain asset acquisitions (section 1060), or
+Wash sale of stock (section 1091).
+Attach an explanation if the corporation uses a basis other than actual cost of the property. See the instructions for Form 8949, column (e).
+
+A RIC's or REIT's basis in an asset it held on January 1, 2001, for which it made an election to recognize any gain under section 311 of the Taxpayer Relief Act of 1997, is the asset's closing market price or fair market value (FMV), whichever applies, on the date of the deemed sale and reacquisition, whether the deemed sale resulted in a gain or unallowed loss.
+
+See section 852(f) for the treatment of certain load charges incurred in acquiring stock in a RIC with a reinvestment right.
+
+Gain from installment sales. If the corporation sold property at a gain and it will receive a payment in a tax year after the year of sale, it must generally report the sale on the installment method unless it elects not to. However, the installment method may not be used to report sales of stock or securities traded on an established securities market.
+Use Form 6252 to report the sale on the installment method. Also use Form 6252 to report any payment received during the tax year from a sale made in an earlier year that was reported on the installment method. Enter gain from the installment sales on Schedule D, line 4 or line 12, as applicable. See the instructions for Form 6252.
+
+To elect out of the installment method, report the full amount of the gain on Form 8949 for the year of the sale on a return filed by the due date (including extensions). If the original return was filed on time without making the election, the corporation may make the election on an amended return filed no later than 6 months after the original due date (excluding extensions). Write “Filed pursuant to section 301.9100-2” at the top of the amended return.
+
+Gain on distributions of appreciated property. Generally, gain (but not loss) is recognized on a nonliquidating distribution of appreciated property to the extent that the property's FMV exceeds its adjusted basis. See section 311.
+Exclusion of gain from DC Zone assets. If the corporation sold or exchanged a qualified District of Columbia Enterprise Zone (DC Zone) asset acquired after 1997 and before 2012, and held for more than 5 years, it may exclude any qualified capital gain that the corporation would otherwise include in income. The exclusion applies to an interest in, or property of, certain businesses operating in the District of Columbia.
+DC Zone asset. A DC Zone asset is any of the following.
+DC Zone business stock.
+DC Zone partnership interest.
+DC Zone business property.
+Qualified capital gain. Qualified capital gain is any gain recognized on the sale or exchange of a DC Zone asset, but doesn’t include any of the following.
+Gain treated as ordinary income under section 1245.
+Section 1250 gain figured as if section 1250 applied to all depreciation rather than the additional depreciation.
+Gain attributable to real property, or an intangible asset, that isn’t an integral part of a DC Zone business.
+Gain from a related-party transaction. See Sales and Exchanges Between Related Persons in chapter 2 of Pub. 544.
+Gain attributable to periods before 1998 and after 2016.
+See section 1400B (as in effect before its repeal) for more details on DC Zone assets and special rules.
+
+How to report. If applicable, report the sale or exchange on Form 8949, Part II, as the corporation otherwise would without regard to the exclusion (with the appropriate box checked). Enter “X” in column (f). Enter the amount of the exclusion as a negative number (in parentheses) in column (g). Complete all remaining columns. See the Instructions for Form 8949 for details.
+Report the sale or exchange of DC Zone business property on Form 4797. See the Instructions for Form 4797 for details.
+
+Exclusion of gain from qualified community assets. If the corporation sold or exchanged a qualified community asset acquired after 2001 and before 2010, it may be able to exclude any qualified capital gain that the corporation would otherwise include in income. The exclusion applies to an interest in, or property of, certain renewal community businesses.
+Qualified community asset. A qualified community asset is any of the following.
+Qualified community stock.
+Qualified community partnership interest.
+Qualified community business property.
+Qualified capital gain. Qualified capital gain is any gain recognized on the sale or exchange of a qualified community asset, but does not include any of the following.
+Gain treated as ordinary income under section 1245.
+Section 1250 gain figured as if section 1250 applied to all depreciation rather than the additional depreciation.
+Gain attributable to real property, or an intangible asset, that is not an integral part of a renewal community business.
+Gain from a related-party transaction. See Sales and Exchanges Between Related Persons in chapter 2 of Pub. 544.
+Gains from periods after December 31, 2014.
+See section 1400F (as in effect before its repeal) for more details and special rules.
+
+How to report. If applicable, report the sale or exchange on Form 8949, Part II, as the corporation otherwise would without regard to the exclusion (with the appropriate box checked). Enter “X” in column (f) and enter the amount of the excluded gain as a negative number (in parentheses) in column (g). Complete all remaining columns. See the Instructions for Form 8949.
+Report the sale or exchange of qualified community business property on Form 4797. See the Instructions for Form 4797 for details.
+
+Gain on the constructive sale of certain appreciated financial positions. Generally, if the corporation holds an appreciated financial position in stock or certain other interests, it may have to recognize gain (but not loss) if it enters into a constructive sale (such as a “short sale against the box”). See Pub. 550.
+Gain from certain constructive ownership transactions. Gain in excess of the underlying net long-term capital gain the corporation would have recognized if it had held a financial asset directly during the term of a derivative contract must be treated as ordinary income. See section 1260. If any portion of the constructive ownership transaction was open in any prior year, the corporation may have to pay interest. See section 1260(b) for details, including how to figure the interest. Include the interest as an additional tax on Form 1120, Schedule J, line 9g (or the applicable line for other income tax returns).
+Gain on disposition of market discount bonds. In general, if the corporation realizes a capital gain upon the disposition of a market discount bond, the gain is recharacterized as interest income to the extent of accrued market discount as of the date of disposition. See sections 1276 through 1278 and Pub. 550 for more information on market discount. See the Instructions for Form 8949 for detailed information about how to report the disposition of a market discount bond.
+Gains on certain insurance property. Form 1120-L filers with gains on property held on December 31, 1958, and certain substituted property acquired after 1958, should see section 818(c).
+Gains and losses from passive activities. A closely held or personal service corporation that has a gain or loss that relates to a passive activity (section 469) may be required to complete Form 8810, before completing Form 8949 and Schedule D. An applicable loss may be limited under the passive activity rules. See Form 8810 and the Instructions for Form 8810.
+Gains and losses of foreign corporations from the disposition of investment in U.S. real property. Foreign corporations must report gains and losses from the disposition of U.S. real property interests. For more information, see section 897. Also, see section 897(c) for the definition of a U.S. real property interest, section 897(k) for special rules for real estate investment trusts, and section 897(l) for special rules relating to qualified foreign pension funds.
+Gain or loss on distribution of property in complete liquidation. Generally, gain or loss is recognized on property distributed in a complete liquidation. Treat the property as if it had been sold at its FMV. An exception to this rule applies for liquidations of certain subsidiaries. See sections 336 and 337 for more information and other exceptions to the general rules.
+Gain or loss on certain asset transfers to a tax-exempt entity. A taxable corporation that transfers all or substantially all of its assets to a tax-exempt entity or converts from a taxable corporation to a tax-exempt entity in a transaction other than a liquidation must generally recognize gain or loss as if it had sold the assets transferred at their FMV. For details and exceptions, see Regulations section 1.337(d)-4.
+Gain or loss on an option to buy or sell property. See sections 1032 and 1234 for the rules that apply to a purchaser or grantor of an option or a securities futures contract (as defined in section 1234B). See Pub. 550 for details.
+Gain or loss from a short sale of property. Report the gain or loss if the property used to close the short sale is considered a capital asset in the hands of the taxpayer. Report any short sale on Form 8949 in the year the sale closes.
+If a short sale closed in 2023 but you did not get a 2023 Form 1099-B (or substitute statement) for it because you entered into it before 2011, report it on Form 8949 in Part I with box C checked or Part II with box F checked (whichever applies). In column (a), enter (for example) “100 sh. XYZ Co. —2010 short sale closed.” Fill in the other columns according to their instructions. Report the short sale the same way if you received a 2023 Form 1099-B (or substitute statement) that doesn’t show the proceeds (sales price).
+
+Gain on certain short-term federal, state, and municipal obligations (other than tax-exempt obligations). If a short-term governmental obligation (other than a tax-exempt obligation) that is a capital asset is acquired at an acquisition discount, then, on any gain realized, a portion is treated as ordinary income and any remaining balance is treated as a short-term capital gain. See section 1271.
+Contingent payment debt instruments. If the corporation sells a taxable contingent payment debt instrument subject to the noncontingent bond method at a gain, the gain is ordinary income (interest income), even if the corporation holds the debt instrument as a capital asset. If the corporation sells a taxable contingent payment debt instrument subject to the noncontingent bond method at a loss, its loss is an ordinary loss to the extent of its prior original issue discount (OID) inclusions on the debt instrument. If the debt instrument is a capital asset, treat any loss that is more than the corporation's prior OID inclusions as a capital loss. See Regulations section 1.1275-4(b) and Pub. 1212, Guide to Original Issue Discount (OID), for more information on contingent payment debt instruments subject to the noncontingent bond method.
+See the Instructions for Form 8949 for information on how to report the gain or loss.
+
+At-risk limitations (section 465). If the corporation sold or exchanged a capital asset used in an activity to which the at-risk rules apply, combine the gain or loss on the sale or exchange with the profit or loss from the activity. If the result is a net loss, complete Form 6198, At-Risk Limitations. Report any gain from the capital asset on Form 8949, Schedule D, and Form 6198.
+Loss from a sale or exchange between the corporation and a related person. Except for distributions in complete liquidation of a corporation, no loss is allowed from the sale or exchange of property between the corporation and certain related persons. See section 267.
+Loss from a wash sale. A wash sale occurs if the corporation acquires (by purchase or exchange), or has a contract or option to acquire, substantially identical stock or securities within 30 days before or after the date of a sale or exchange that results in a loss. The corporation cannot deduct a loss from a wash sale of stock or securities (including contracts or options to acquire or sell stock or securities) unless the corporation is a dealer in stock or securities and the loss was sustained in a transaction made in the ordinary course of the corporation's trade or business. For more information on wash sales, see section 1091 and Pub. 550.
+The wash sale rules don't apply to a redemption of shares in a floating-NAV (net asset value) money market fund.
+
+Report the transaction as the corporation otherwise would on Form 8949, Part I or II (depending on how long the corporation owned the stock or securities). Check the appropriate box. Enter “W” in column (f). Enter the nondeductible loss as a positive number in column (g). Complete all remaining columns. See the Instructions for Form 8949.
+
+Loss from securities that are capital assets that become worthless during the year. Except for securities held by a bank, treat the loss as a capital loss as of the last day of the tax year. See section 582 for the rules on the treatment of securities held by a bank.
+Losses limited after an ownership change or acquisition. If the corporation has undergone an “ownership change” as defined in section 382(g), section 383 may limit the amount of capital gains that may be offset by prechange capital losses. In addition, section 382(h) may in some cases limit capital losses recognized after an ownership change when the loss accrued before the ownership change. Also, if a corporation acquires control of another corporation (or acquires its assets in a reorganization),
+section 384 may limit the amount of recognized built-in capital gains that may be offset by preacquisition capital losses.
+Loss from the sale or exchange of capital assets of an insurance company taxable under section 831. Capital losses of a casualty insurance company are deductible to the extent that the assets were sold to meet abnormal insurance losses or to provide for the payment of dividend and similar distributions to policyholders. See section 834(c)(6).
+Gains and losses from partnerships, estates, or trusts. Report the corporation's share of capital gains and losses from investments in partnerships, estates, or trusts on the appropriate Part of Form 8949. Report a net short-term capital gain (loss) on Part I with box C checked. Report a net long-term capital gain (loss) on Part II with box F checked. See the Instructions for Form 8949.
+Undistributed long-term gains from a regulated investment company (RIC) or real estate investment trust (REIT). Report the corporation's share of long-term gains from Form 2439, Notice to Shareholder of Undistributed Long-Term Capital Gains, on Form 8949, Part II (with box F checked). Enter “From Form 2439” in column (a). Enter the gain in column (h). Leave all other columns blank. See the Instructions for Form 8949.
+Amounts from Form 2438. Enter any net short-term capital gain from line 4 of Form 2438, Undistributed Capital Gains Tax Return, on Form 8949, Part I, with box C checked. Identify the gain as “Net short-term capital gain from Form 2438 line 4” in column (a). Enter the amount of the gain in column (h). Leave all other columns blank.
+Enter the amount from line 12 of Form 2438 on Form 8949, Part II, with box F checked. Identify the gain as “Undistributed capital gains not designated (from Form 2438)” in column (a). Enter the amount of the gain in column (h). Leave all other columns blank.
+
+Net Asset Value (NAV) method for money market funds. Report capital gain or loss determined under the NAV method with respect to shares in a money market fund on Form 8949, Part I, with box C checked. Enter the name of each fund followed by “(NAV)” in column (a). Enter the net gain or loss in column (h). Leave all other columns blank. See the Instructions for Form 8949.
+Deferral of gain invested in Qualified Opportunity Fund (QOF). If the corporation has an eligible gain (defined below), the corporation can invest that gain in a QOF and elect to defer part or all of the gain that it would otherwise include in income. The gain is deferred until the corporation disposes of the investment in the QOF or December 31, 2026, whichever is earlier. If the corporation makes the election, only include gain to the extent, if any, the amount of realized gain is more than the aggregate amount invested in a QOF during the 180-day period beginning on the date the gain was realized. The corporation may also be able to permanently exclude the gain from the sale or exchange of any investment in a QOF if the investment is held for at least 10 years.
+QOF. A QOF is any investment vehicle that is organized as either a corporation or partnership for the purpose of investing in eligible property that is located in a Qualified Opportunity Zone.
+Eligible gain. Gain that is eligible to be deferred if it is invested in a QOF includes any amount treated as a capital gain for federal income tax purposes.
+See section 1400Z for more details on QOFs and special rules. Also, see IRS.gov/credits-deductions/businesses/opportunity-zones.
+
+How to report. Report the eligible gain as the corporation normally would on Form 8949 and Schedule D. See the Instructions for Form 8949 for how to report the deferral. The corporation will also need to attach Form 8997 to its tax return annually until it disposes of the QOF investment. For more information, see Form 8997 and its instructions.
+Specific Instructions
+Rounding off to whole dollars. You may enter decimal points and cents when completing your return. However, you should round off cents to whole dollars on your return, forms, and schedules to make completing your return easier. You must either round off all amounts on your return to whole dollars, or use cents for all amounts. To round, drop amounts under 50 cents and increase amounts from 50 to 99 cents to the next dollar. For example, $8.40 rounds to $8 and $8.50 rounds to $9.
+If you have to add two or more amounts to figure the amount to enter on a line, include cents when adding the amounts and round off only the total.
+
+Disposal of QOF investment. If the corporation disposed of any investment in a QOF during the tax year, check the box on the top of Schedule D and see the Instructions for Form 8949 for additional reporting requirements.
+Parts I and II
+Lines 1a and 8a—Transactions not reported on Form 8949. The corporation can report on line 1a (for short-term transactions) or line 8a (for long-term transactions) the aggregate totals from any transactions (other than sales of collectibles) for which:
+The corporation received a Form 1099-B (or substitute statement) that shows basis was reported to the IRS and does not show any adjustments in box 1f or box 1g;
+The Ordinary checkbox in box 2 of Form 1099-B (or substitute statement) is not checked;
+The QOF checkbox in box 3 of Form 1099-B (or substitute statement) is not checked; and
+The corporation does not need to make any adjustments to the basis or type of gain or loss reported on Form 1099-B (or substitute statement), or to its gain or loss.
+See How To Complete Form 8949, Columns (f) and (g) in the Instructions for Form 8949 for details about possible adjustments to the corporation's gain or loss.
+If the corporation chooses to report these transactions on lines 1a and 8a, do not report them on Form 8949. Also, the corporation does not need to attach a statement to explain the entries on lines 1a and 8a.
+
+Figure gain or loss on each line. Subtract the cost or other basis in column (e) from the proceeds (sales price) in column (d). Enter the gain or loss in column (h). Enter negative amounts in parentheses.
+
+Example 1—Basis reported to the IRS. The corporation received a Form 1099-B reporting the sale of stock held for 3 years, showing proceeds (in box 1d) of $6,000 and cost or other basis (in box 1e) of $2,000. Box 12 is checked, meaning that basis was reported to the IRS. The corporation does not need to make any adjustments to the amounts reported on Form 1099-B or enter any codes. This was the corporation's only 2023 transaction. Instead of reporting this transaction on Form 8949, the corporation can enter $6,000 on Schedule D, line 8a, column (d); $2,000 in column (e); and $4,000 ($6,000 - $2,000) in column (h). If the corporation had a second transaction that was the same except that the proceeds were $5,000 and the basis was $3,000, combine the two transactions. Enter $11,000 ($6,000 + $5,000) on Schedule D, line 8a, column (d); $5,000 ($2,000 + $3,000) in column (e); and $6,000 ($11,000 - $5,000) in column (h).
+Example 2—Basis not reported to the IRS. The corporation received a Form 1099-B showing proceeds (in box 1d) of $6,000 and cost or other basis (in box 1e) of $2,000. Box 12 is not checked, meaning that basis was not reported to the IRS. Do not report this transaction on line 1a or line 8a. Instead, report the transaction on Form 8949. Complete all necessary pages of Form 8949 before completing line 1b, 2, 3, 8b, 9, or 10 of Schedule D.
+Example 3—Adjustment. The corporation received a Form 1099-B showing proceeds (in box 1d) of $6,000 and cost or other basis (in box 1e) of $2,000. Box 12 is checked, meaning that basis was reported to the IRS. However, the basis shown in box 1e is incorrect. Do not report this transaction on line 1a or line 8a. Instead, report the transaction on Form 8949. See the instructions for Form 8949, columns (f), (g), and (h). Complete all necessary pages of Form 8949 before completing line 1b, 2, 3, 8b, 9, or 10 of Schedule D.
+Lines 1b, 2, 3, 8b, 9, and 10—Transactions reported on Form 8949. Complete Form 8949 before completing Schedule D, lines 1b, 2, 3, 8b, 9, and 10. Enter on Schedule D, lines 1b, 2, and 3, respectively, the short-term totals from all Forms 8949, Part I, line 2, with box A, B, or C, respectively, checked. Enter on Schedule D, lines 8b, 9, and 10, respectively, the long-term totals from all Forms 8949, Part II, line 2, with box D, E, or F, respectively, checked.
+Line 6. Enter any unused capital loss carryover. Attach a statement showing how the carryover was computed.
+Line 14. Enter the total capital gain distributions paid by a RIC or REIT during the year, regardless of how long the corporation owned stock in the RIC or REIT.
+Also enter any amount received from a RIC or REIT that qualifies as a distribution in complete liquidation under section 332(b) and is designated by the RIC or REIT as a capital gain distribution. See section 332(c).
