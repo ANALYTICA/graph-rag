@@ -2,6 +2,9 @@
 Containerized example of an LLM using graphRAG on IRS documents with a 
 chatbot front-end interface. 
 
+Presentation on graphRAG and project:
+https://analyticahq-my.sharepoint.com/:p:/g/personal/adam_conovaloff_analytica_net/ES-9blawIqlJqB_DBNPS7OwBxVNkbjb-_UAvuK5H_cqFwA?e=esOUuW
+
 Before running, in the top level of the repo, create the following folders 
 to mount to the Neo4j database container:
 
@@ -31,4 +34,4 @@ If desired, a fastapi endpoint can be set up on port 8000. Change the "command"
 field in the docker-compose yaml file. It is commented out above the command
 that runs Dash. Make sure to comment out the Dash command as well.
 
-Any issues, comment or questions email Adam at adam.conovaloff@analytica.net
+Any issues, comments or questions email Adam at adam.conovaloff@analytica.net
