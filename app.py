@@ -89,7 +89,10 @@ def update_display(chat_history):
     ]
 retriever = get_retriever()
 llm = get_model()
-#conversational_rag_chain = get_crc()
+build_documents()
+vectorize_documents()
+link_chunks()
+build_relationships()
 
 @app.callback(
     [Output("store-conversation", "data"), Output("user-input", "value")],
@@ -109,14 +112,6 @@ def run_chatbot(n_clicks, n_submit, user_input, chat_history):
     if user_input is None or user_input == "":
         return chat_history, ""
     response = rag_question(user_input, llm, retriever)["result"]
-#    response =  conversational_rag_chain.invoke(
-#                {"input": user_input},
-#                config={
-#                "configurable": {"session_id": "abc123"}
-#                },  # constructs a key "abc123" in `store`.
-#                )["answer"]
-    
-    #response = model.invoke(user_input)
     if len(chat_history) == 0:
         chat_history = [user_input, response]
     else:

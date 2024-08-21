@@ -28,7 +28,7 @@ Containers may take around ten mintues to build. Navigate to localhost:8050 to
 enter questions into the app. 
 
 If desired, a fastapi endpoint can be set up on port 8000. Change the "command" 
-field in the docker-compose yaml file. It is commented out below the command
+field in the docker-compose yaml file. It is commented out above the command
 that runs Dash. Make sure to comment out the Dash command as well.
 
 Any issues, comment or questions email Adam at adam.conovaloff@analytica.net

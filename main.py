@@ -10,8 +10,8 @@ import os
 from graphRAG import get_retriever, get_model, rag_question
 
 build_documents()
-#vectorize_documents()
-#link_chunks
+vectorize_documents()
+link_chunks()
 build_relationships()
 
 os.environ["NEO4J_URI"] = "neo4j://neo4j:7687"
@@ -33,6 +33,4 @@ def read_root():
 
 @app.put("/chat/response")
 async def respond(message: Message):
-    #return graphRAG(message.text, model, retriever)
     return rag_question(message.text, llm, retriever)
-#return retriever.invoke(message.text)

@@ -13,15 +13,6 @@ COPY create_documents.py \
      link_chunks.py \
      create_relationships.py \ 
     ./
-#COPY main.py .
-#COPY llama.py \
-#     main.py\
-#     test_request.py\
-#     agents.py \
-#     parse.py \ 
-#     chain.py \
-#    ./
-#COPY dir1 dir2 ./
+
 #CMD ["uvicorn", "main:app", "--reload", "--host", "0.0.0.0", "--port", "8000"]
 
-#docker run --mount type=bind,source=C:\Users\Adam.Conovaloff\langchain\vectorstore\bind,target=/app/persist -p 8000:8000  vectorstore:0
