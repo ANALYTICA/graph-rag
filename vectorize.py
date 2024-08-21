@@ -28,12 +28,12 @@ text_splitter = RecursiveCharacterTextSplitter(
 
 def vectorize(prepend, filename):
     if filename.endswith(".txt"):
-        with open("./" + filename) as f:
+        with open("./irs_documents/" + filename) as f:
             data = f.read()
         texts = text_splitter.create_documents([data])
     else:
         loaders = []
-        loaders.append(PyPDFLoader("./" + filename))
+        loaders.append(PyPDFLoader("./irs_documents/" + filename))
         docs = []
         docs.extend(loaders[0].load())
 
