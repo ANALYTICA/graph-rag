@@ -35,3 +35,5 @@ field in the docker-compose yaml file. It is commented out above the command
 that runs Dash. Make sure to comment out the Dash command as well.
 
 Any issues, comments or questions email Adam at adam.conovaloff@analytica.net
+
+
