@@ -7,10 +7,6 @@ COPY create_documents.py \
      vectorize.py \
      main.py\
      irs_documents\
-     ./irs_documents/f1120.pdf\
-     ./irs_documents/f1120sd.pdf \
-     ./irs_documents/if1120.txt \
-     ./irs_documents/if1120sd.txt \
      link_chunks.py \
      create_relationships.py \ 
     ./
