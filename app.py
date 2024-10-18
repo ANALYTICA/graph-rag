@@ -5,6 +5,10 @@ import dash_core_components as dcc
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 from graphRAG import get_retriever, get_model, rag_question
+from vectorize import vectorize_documents
+from link_chunks import link_chunks
+from create_relationships import build_relationships
+from create_documents import build_documents
 #from llama import load_model
 #from data_chat import get_crc
 
